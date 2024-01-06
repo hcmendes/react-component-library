@@ -24,3 +24,6 @@ Base template project for building a React component library
 `npm run build`
 
 Compiles the project into the `dist` folder
+
+Credits: 
+![](https://blog.logrocket.com/how-to-build-component-library-react-typescript/#vitrinedev)
